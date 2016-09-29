@@ -4,4 +4,4 @@
 
 module.exports.Image = require('./Clients/ImageClient');
 module.exports.Redis = require('./Clients/RedisClient');
-module.exports.Noti = require('./Clients/NotiSocketClient');
+module.exports.Socket = require('./Clients/SocketClient');
